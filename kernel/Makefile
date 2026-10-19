@@ -1,0 +1,1 @@
+OBJECTS += _entry.o
